@@ -1,4 +1,4 @@
-# jsClipdoll
+# 抓娃娃
 ## [demo](http://htmlpreview.github.io/?https://github.com/dscsmily/jsClipdoll/blob/master/demo.html)
 
 ## 技术点
